@@ -17,3 +17,15 @@
 * Code Example
 `console.log(Hello, World!)`
 ---
+### Education
+* University: 
+National Technical University "Kharkiv Polytechnic Institute"
+* Courses:
+    * CS50 lectures
+    * FreeCodeCamp
+    * HTML Academy
+
+* Languages
+    * Ukrainian - Native
+    * Russian - Intermediate
+    * English - Intermediate
